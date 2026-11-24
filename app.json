@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "kind": "cr-desktop-app",
+  "platforms": {
+    "mac": {
+      "notes": {
+        "en": "The first public release of CR-Desktop. Copy dive logs from your watch to your computer over Bluetooth (CR5 series watches can also use USB), view depth profiles and events, and export to Excel or UDDF. Syncing also sets the watch clock. Choose the light (Deep Sea) or dark (Night Dive) appearance, or let it follow your computer. CR-Desktop will tell you when a new version is available.",
+        "zh-TW": "CR-Desktop 第一個公開版本。用藍牙把潛水錶的日誌複製到電腦（CR5 系列也可以用 USB），看深度曲線與事件，匯出 Excel 或 UDDF；同步時會順便校正手錶時間。有淺色「深海」與深色「夜潛」兩種外觀，可以跟著電腦切換。之後有新版時，軟體會在畫面上通知你。"
+      },
+      "version": "0.2.0"
+    }
+  },
+  "published_at": "2026-11-24T12:44:22Z",
+  "sequence": 1
+}
