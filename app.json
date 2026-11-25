@@ -5,12 +5,12 @@
     "mac": {
       "minimum_version": "0.2.1",
       "notes": {
-        "en": "Fixed: Settings no longer says you are in demo mode when you are not. Firmware updates for the CR5 series use update patches only; if the backup on the watch does not match, this version does not send the full firmware yet. Please update to this version before updating watch firmware.",
-        "zh-TW": "修正：在一般模式下，設定頁不再誤寫「目前是展示模式」。CR5 系列的韌體更新只使用差分；手錶上的備份對不上時，這一版先不傳完整韌體。開放韌體更新前，請先更新到這一版。"
+        "en": "CR-Desktop can now update CREST CR5 watches to firmware CR5072. The Watch page tells you when the update is available.",
+        "zh-TW": "CREST CR5 可以用 CR-Desktop 更新韌體到 CR5072。新版韌體開放時，「手錶」頁會提示。"
       },
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   },
-  "published_at": "2026-11-24T15:35:48Z",
-  "sequence": 2
+  "published_at": "2026-11-25T01:59:58Z",
+  "sequence": 3
 }
