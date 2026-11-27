@@ -5,12 +5,12 @@
     "mac": {
       "minimum_version": "0.2.1",
       "notes": {
-        "en": "CR-Desktop can now update CREST CR5 watches to firmware CR5072. The Watch page tells you when the update is available.",
-        "zh-TW": "CREST CR5 可以用 CR-Desktop 更新韌體到 CR5072。新版韌體開放時，「手錶」頁會提示。"
+        "en": "Firmware updates are less likely to be interrupted: CR-Desktop now keeps your computer awake during an update. The screens before and during an update also remind you to close any phone app connected to the watch, how to return to the watch face, and not to restart the watch while it updates.",
+        "zh-TW": "韌體更新更不容易中斷：更新期間 CR-Desktop 會讓電腦保持清醒。開始更新前與更新中的畫面也補上提醒：關掉手機上連手錶的 App、怎麼回到錶面、手錶更新中不要讓它重新開機。"
       },
-      "version": "0.2.2"
+      "version": "0.2.3"
     }
   },
-  "published_at": "2026-11-25T01:59:58Z",
-  "sequence": 3
+  "published_at": "2026-11-27T04:56:10Z",
+  "sequence": 4
 }
